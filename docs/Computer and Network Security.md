@@ -1,4 +1,4 @@
-# Computer and Networking Concepts
+# Computer Security and Networking Concepts
 
 ### Computer Security
  The NIST Computer Security Handbook [NIST95] defines the term computer security as follows:
