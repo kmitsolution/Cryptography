@@ -9,6 +9,8 @@
       
 ### 3 main objectives of Computer Security ( also refered as CIA triad(Confidentiality,Integrity,Availablity) ) 
 
+ <img src="https://github.com/kmitsolution/Cryptography/blob/main/images/ciatriad.PNG" width="400" height="200" />
+
 <ul>
   
   <li> <b>Confidentiality: </b>- To prevent unauthorized access on information, personal privacy and propriateary information. </li>
